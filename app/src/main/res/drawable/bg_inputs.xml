@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="2dp">
+        <shape>
+            <solid android:color="#3A7CA5" /> <!-- Primary background color (Soft Blue) -->
+            <corners android:radius="8dp" /> <!-- Adjust the radius as needed -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="2dp"
+                android:color="#333333" /> <!-- Charcoal (or your desired border color) -->
+            <corners android:radius="8dp" /> <!-- Adjust the radius as needed -->
+        </shape>
+    </item>
+</layer-list>

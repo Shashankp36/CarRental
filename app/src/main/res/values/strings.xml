@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarRental</string>
+    <string name="splash_appTitle">Rent Property</string>
+    <string name="button_register_txt">Register</string>
+    <string name="btn_login_txt">Login</string>
+    <string name="splash_appDescription">Explore the freedom of self-drive car rentals with us. Your journey, your rules. Choose from our diverse fleet of vehicles and embark on your next adventure.</string>
+    <string name="btn_registration">Register</string>
+    <string name="splash_subTitle">Discover your new home</string>
+    <string name="btn_admin_txt">Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

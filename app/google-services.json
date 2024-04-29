@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827269368683",
+    "project_id": "ca3carrental",
+    "storage_bucket": "ca3carrental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827269368683:android:e8ca515d6e9d1855679a2e",
+        "android_client_info": {
+          "package_name": "com.example.ca3carrental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwasyy7h0eZL6FrsYF_RPGS3K2R_VdZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
